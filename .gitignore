@@ -1,0 +1,6 @@
+*.xml
+*.log
+*.pyc
+.scrapy/
+crawls/
+__pycache__/
