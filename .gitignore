@@ -4,3 +4,4 @@
 .scrapy/
 crawls/
 __pycache__/
+test*
